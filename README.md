@@ -1,2 +1,2 @@
 # GeradorDeQrConde
- Criar Qr conde de acordo com a URL ou texto
+ Criar Qr Conde de acordo com a URL ou texto
